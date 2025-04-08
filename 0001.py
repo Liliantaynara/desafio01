@@ -6,9 +6,13 @@ min2 = int (input("minutos"))
 somahh = hr1 + hr2
 somaMm = min1 + min2
 
-Soma = (print("as horas: "))
+if
+    somahh >= hr1
+    somahh += 60
 
-#tem que da as horas somadas ao resultado e da o valor da saida 
+if somahh
+
+#tem que da as horas somadas ao resultado e da o valor da saida
 
 
 
